@@ -1,0 +1,16 @@
+{
+"name": "ufabet369",
+"theme": "ufabet369",
+"version": "9.7.4",
+"description": "ufabet369 สมัครสมาชิกเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+"keywords": [
+"ufabet369",
+"ufabet369 เครดิตฟรี",
+"ufabet369 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufabet369",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
